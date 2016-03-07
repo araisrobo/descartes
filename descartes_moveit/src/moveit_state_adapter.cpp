@@ -24,7 +24,7 @@
 #include "descartes_moveit/seed_search.h"
 #include <sstream>
 
-const static int SAMPLE_ITERATIONS = 10;
+const static int SAMPLE_ITERATIONS = 1;
 
 namespace
 {
